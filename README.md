@@ -28,7 +28,4 @@ The purpose of this lab is to understand how systems can become attack vectors d
 
 ---
 
-## 📸 Screenshots
-
-Screenshots related to the lab completion and exercises can be found in:
 
